@@ -1,7 +1,5 @@
 # Sentiment-Analysis-of-Movie-Reviews
 
-# Regression-Analysis-Using-Steel-Data
-
 <p align="center">
     <img src="assets/movie.jpg" alt="movies">
     <br>
@@ -27,3 +25,7 @@ The findings of this study could provide valuable insights for the movie industr
 
 - Python code files implementing SVC and NBC classification algorithms.
 - PDF report (**Critical Analysis.pdf**) containing critical analysis of the approach and results covering the mentioned key points.
+
+
+Photo by <a href="https://unsplash.com/@tysonmoultrie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tyson Moultrie</a> on <a href="https://unsplash.com/photos/the-beatles-vinyl-record-sleeve-BQTHOGNHo08?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
